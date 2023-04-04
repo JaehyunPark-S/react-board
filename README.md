@@ -1,2 +1,5 @@
 # react-board
-board with reactjs and javascript
+## 사용 기술
+- NodeJS
+- React
+- Express
