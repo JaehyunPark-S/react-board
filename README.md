@@ -1,5 +1,5 @@
 # react-board
-## 사용 기술
+## 기술 스택
 - NodeJS
 - React
 - Express
