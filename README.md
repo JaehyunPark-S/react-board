@@ -28,6 +28,7 @@
 
 # 4. 핵심 기능
 - 검색 기능
+<details>
 <summary>각 테이블 별 CRUD</summary>
 
 - 사용자 CRUD
